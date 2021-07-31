@@ -151,7 +151,7 @@ li.slick-active button {
 .texto-destaque p {
     font-size: 15px;
     font-family: 'Mali', cursive;
-    color: #9a9a9a;
+    color: #000000;
     line-height: 3px;
 }
 .frutas {
@@ -183,7 +183,7 @@ li.slick-active button {
     right: 100px;
     font-size: 25px;
     font-family: 'Mali', cursive;
-    color: #9a9a9a;
+    color: #000000;
     line-height: 30px;
 }
 .texto-frutas p strong {
